@@ -54,9 +54,5 @@ E o terceiro pilar é a adaptação. Se algo não está funcionando, o time ajus
 
 Esses pilares garantem que o time se mantenha ágil, eficiente e focado nos objetivos.
 ---
-[FINALIZAÇÃO]
-
-E por hoje é isso! Espero que você tenha saído deste episódio com mais clareza sobre os valores e os pilares do Método Ágil.
-Continue explorando, aprendendo e aplicando esses conceitos no seu dia a dia.
 
 Eu sou a Débora, e esse foi o desafio dessa semana. Até a próxima!
